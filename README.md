@@ -25,13 +25,16 @@ To get started with the project, follow these steps:
 
 # Add instructions for running or setting up the project
 
-##Project Goals
+## Project Goals
 
 The main objectives of this project include:
 
 [ ] Analyzing network traffic data to identify common patterns.
+
 [ ] Detecting anomalies in network traffic that may indicate security threats or performance issues.
+
 [ ] Providing insights and visualizations for network administrators.
+
 [ ] Building a user-friendly interface for interacting with the tool.
 
 
