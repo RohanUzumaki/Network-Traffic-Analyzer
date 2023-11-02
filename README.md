@@ -17,7 +17,7 @@ To get started with the project, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/RohanUzumaki/network-Traffic-Analyzer.git
+   https://github.com/RohanUzumaki/Network-Traffic-Analyzer.git
    cd network-traffic-analyzer
    
 # Add instructions for installing project dependencies
@@ -29,12 +29,12 @@ To get started with the project, follow these steps:
 
 The main objectives of this project include:
 
-[ ] Analyzing network traffic data to identify common patterns.
+- [ ] Analyzing network traffic data to identify common patterns.
 
-[ ] Detecting anomalies in network traffic that may indicate security threats or performance issues.
+- [ ] Detecting anomalies in network traffic that may indicate security threats or performance issues.
 
-[ ] Providing insights and visualizations for network administrators.
+- [ ] Providing insights and visualizations for network administrators.
 
-[ ] Building a user-friendly interface for interacting with the tool.
+- [ ] Building a user-friendly interface for interacting with the tool.
 
 
